@@ -48,6 +48,36 @@ while(again.ToLower() == "a")
         Console.Write("Diference musí být kladné celé číslo! Zadejte diferenci znovu (kladné celé číslo): ");
     }
 
+    //Rekapitulace zadaných hodnot
+    // Console.WriteLine();
+    // Console.WriteLine("===========================");
+    // Výpis zadaných hodnot pod sebou
+    // Console.WriteLine($"První číslo: {first}");
+    // Console.WriteLine($"Poslední číslo: {last}");
+    // Console.WriteLine($"Diference: {step}");
+    // Console.WriteLine("===========================");
+    // Console.WriteLine();
+
+    // Výpis zadaných hodnot v jedné řádce
+    Console.WriteLine("===========================");
+    Console.WriteLine($"První číl: {first}, poslední číslo: {last}, diference: {step}");
+    Console.WriteLine("===========================");
+
+    // Jádro algoritmu - výpis řady
+    // Console.WriteLine("Výpis čísel řady:");
+
+    // if(first <= last)
+    // {
+    //     joooo muzeme radu vypsat
+    // }
+    // else
+    // {
+    //     Console.WriteLine("Nelze vypsat řadu.");
+    //     Console.WriteLine("první číslo je větší než poslední číslo.");
+    //     Console.WriteLine("Tento program umí spustit pouze vzestupnou řadu (od menších k větším).");
+    // }
+
+
     //Dotaz směrem k uživateli na opakování
     Console.WriteLine();
     Console.WriteLine();
