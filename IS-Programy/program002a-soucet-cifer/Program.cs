@@ -1,7 +1,9 @@
 ﻿string again = "a";
 // .ToLower() - převede vstup na malá písmena, takže program bude pokračovat při zadávání "a" tak i "A"
-while(again.ToLower() == "a")
-{
+while(again.ToLower() == "a"){
+
+
+
     Console.Clear();
     Console.WriteLine("*******************************************");
     Console.WriteLine("***************Název prgramu******************");
@@ -33,6 +35,52 @@ while(again.ToLower() == "a")
     Console.WriteLine("===========================");
 
     // Jádro algoritmu - výpis řady
+
+
+    // 1. Příprava pomocných proměnných pro výpočet
+    int numberBackup = number; //záloha původního čísla pro závěrečný výpis
+    int sum = 0; //proměnná pro součet cifer čísla
+    int digit; //proměnná pro uložení právě zpracovan= číslice
+
+    // 2. Ošetření záporných čísel (znaménko nemá vliv na součet cifer)
+    if (number < 0)
+    {
+        number = -number; //převedení čísla na kladné
+    }
+
+    // 3. zvláštní případ
+    if (number == 0)
+    {
+        sum = 0; //součet cifer čísla 0 je 0
+    }
+    else
+    {
+        Console.WriteLine();
+        Console.WriteLine("Průběh rozkladu čísla na jednotlivé číslice");
+
+        //Jádro problému - matematický rozklad čísla pomocí cyklu
+        while(number > 0 )
+        {
+            //Operátoru % se říká Modulo (slouží k určení zbytku po dělení)
+            digit = number % 10; //MODULO 1O získá poslední číslici
+            sum = sum + digit;   // Přičtení cifry k celkovému součtu
+            number = number / 10;  // Celočíselné dělení 10 odstraní poslední číslici
+
+            Console.WriteLine($"Aktuální číslice (zbytek): {digit}");
+            Console.WriteLine($"Číslo po odříznutí aktuální číslice: {number}");
+            Console.WriteLine($"Aktuální hodnota ciferného součtu: {sum}");
+        }
+    }
+
+    // 5. Výpis výsledku
+    Console.WriteLine();
+    Console.WriteLine("===========================");
+    Console.WriteLine($"Ciferný součet čísla {numberBackup} je: {sum}");
+    Console.WriteLine("===========================");
+    Console.WriteLine();
+
+
+    //Konec jádra konkrétního algoritmu
     
     // Konec jádra algoritmu - výpis řady
     
