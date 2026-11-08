@@ -6,7 +6,7 @@ while(again.ToLower() == "a"){
 
     Console.Clear();
     Console.WriteLine("*******************************************");
-    Console.WriteLine("***************Název prgramu******************");
+    Console.WriteLine("***************Soucet cifer****************");
     Console.WriteLine("*******************************************");
     Console.WriteLine("***************Josef Novák*****************");
     Console.WriteLine("*******************************************");

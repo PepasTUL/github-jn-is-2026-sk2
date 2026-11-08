@@ -1,0 +1,15 @@
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/obj/Debug/net10.0/program002b-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/obj/Debug/net10.0/program002b-soucet-cifer.AssemblyInfoInputs.cache
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/obj/Debug/net10.0/program002b-soucet-cifer.AssemblyInfo.cs
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/obj/Debug/net10.0/program002b-soucet-cifer.csproj.CoreCompileInputs.cache
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/obj/Debug/net10.0/program002b-soucet-cifer.sourcelink.json
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/bin/Debug/net10.0/program002b-soucet-cifer
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/bin/Debug/net10.0/program002b-soucet-cifer.deps.json
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/bin/Debug/net10.0/program002b-soucet-cifer.runtimeconfig.json
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/bin/Debug/net10.0/program002b-soucet-cifer.dll
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/bin/Debug/net10.0/program002b-soucet-cifer.pdb
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/obj/Debug/net10.0/program002b-soucet-cifer.dll
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/obj/Debug/net10.0/refint/program002b-soucet-cifer.dll
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/obj/Debug/net10.0/program002b-soucet-cifer.pdb
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/obj/Debug/net10.0/program002b-soucet-cifer.genruntimeconfig.cache
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program002b-soucet-cifer/obj/Debug/net10.0/ref/program002b-soucet-cifer.dll
