@@ -41,6 +41,7 @@ while(again.ToLower() == "a"){
     int numberBackup = number; //záloha původního čísla pro závěrečný výpis
     int sum = 0; //proměnná pro součet cifer čísla
     int digit; //proměnná pro uložení právě zpracovan= číslice
+    int multi = 1;
 
     // 2. Ošetření záporných čísel (znaménko nemá vliv na součet cifer)
     if (number < 0)
@@ -65,10 +66,13 @@ while(again.ToLower() == "a"){
             digit = number % 10; //MODULO 1O získá poslední číslici
             sum = sum + digit;   // Přičtení cifry k celkovému součtu
             number = number / 10;  // Celočíselné dělení 10 odstraní poslední číslici
+            multi = multi * digit; // Přičtení cifry k celkovému součinu
+            
 
             Console.WriteLine($"Aktuální číslice (zbytek): {digit}");
             Console.WriteLine($"Číslo po odříznutí aktuální číslice: {number}");
             Console.WriteLine($"Aktuální hodnota ciferného součtu: {sum}");
+            Console.WriteLine($"Aktuální hodnota ciferného součinu: {}");
         }
     }
 
@@ -78,7 +82,11 @@ while(again.ToLower() == "a"){
     Console.WriteLine($"Ciferný součet čísla {numberBackup} je: {sum}");
     Console.WriteLine("===========================");
     Console.WriteLine();
-
+    Console.WriteLine();
+    Console.WriteLine("===========================");
+    Console.WriteLine($"Ciferný součet čísla {numberBackup} je: {sum}");
+    Console.WriteLine("===========================");
+    Console.WriteLine();
 
     //Konec jádra konkrétního algoritmu
     
