@@ -21,18 +21,18 @@ while(again.ToLower() == "a"){
     }
 
     // Vstup konečné hodnoty - správně řešený
-    Console.Write("Zadejte poslední hodnotu (celé číslo):");
-    int bbb;
-    while (!int.TryParse(Console.ReadLine(), out bbb))
-    {
-        Console.WriteLine("Zadaná hodnota není celé číslo. Zadejte prosím znovu:");
-    }
+   // Console.Write("Zadejte poslední hodnotu (celé číslo):");
+   // int bbb;
+   // while (!int.TryParse(Console.ReadLine(), out bbb))
+   // {
+   //     Console.WriteLine("Zadaná hodnota není celé číslo. Zadejte prosím znovu:");
+   // }
 
 
     // Výpis zadaných hodnot v jedné řádce
-    Console.WriteLine("===========================");
-    Console.WriteLine($"První hodnota: {number}, poslední hodnota: {bbb}");
-    Console.WriteLine("===========================");
+    //Console.WriteLine("===========================");
+    //Console.WriteLine($"První hodnota: {number}, poslední hodnota: {bbb}");
+    //Console.WriteLine("===========================");
 
     // Jádro algoritmu - výpis řady
 
@@ -72,7 +72,7 @@ while(again.ToLower() == "a"){
             Console.WriteLine($"Aktuální číslice (zbytek): {digit}");
             Console.WriteLine($"Číslo po odříznutí aktuální číslice: {number}");
             Console.WriteLine($"Aktuální hodnota ciferného součtu: {sum}");
-            Console.WriteLine($"Aktuální hodnota ciferného součinu: {}");
+            Console.WriteLine($"Aktuální hodnota ciferného součinu: {multi}");
         }
     }
 
@@ -81,10 +81,7 @@ while(again.ToLower() == "a"){
     Console.WriteLine("===========================");
     Console.WriteLine($"Ciferný součet čísla {numberBackup} je: {sum}");
     Console.WriteLine("===========================");
-    Console.WriteLine();
-    Console.WriteLine();
-    Console.WriteLine("===========================");
-    Console.WriteLine($"Ciferný součet čísla {numberBackup} je: {sum}");
+    Console.WriteLine($"Ciferný součin čísla {numberBackup} je: {multi}");
     Console.WriteLine("===========================");
     Console.WriteLine();
 
