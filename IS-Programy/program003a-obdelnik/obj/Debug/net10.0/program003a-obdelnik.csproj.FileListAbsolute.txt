@@ -1,0 +1,15 @@
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/bin/Debug/net10.0/program003a-obdelnik
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/bin/Debug/net10.0/program003a-obdelnik.deps.json
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/bin/Debug/net10.0/program003a-obdelnik.runtimeconfig.json
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/bin/Debug/net10.0/program003a-obdelnik.dll
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/bin/Debug/net10.0/program003a-obdelnik.pdb
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.AssemblyInfoInputs.cache
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.AssemblyInfo.cs
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.csproj.CoreCompileInputs.cache
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.sourcelink.json
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.dll
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/refint/program003a-obdelnik.dll
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.pdb
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/program003a-obdelnik.genruntimeconfig.cache
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003a-obdelnik/obj/Debug/net10.0/ref/program003a-obdelnik.dll
