@@ -36,10 +36,20 @@ while(again.ToLower() == "a")
     Console.WriteLine($"Šířka: {width}, Výška: {height}");
     Console.WriteLine("===========================");
 
-    // Jádro algoritmu - výpis řady
+    // Jádro algoritmu 
     
-    // Konec jádra algoritmu - výpis řady
-    
+    // Vnější cyklus, který bude řídit správný počet zobrazených řádků (výška)
+    for (int i = 1; i <= height; i++)
+    {
+        for(int j = 1; j < width; j++)
+        {
+            Console.Write("* ");
+            System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(200));
+        }
+        Console.WriteLine("* ");
+    }
+    // Konec jádra algoritmu 
+
 
     //Dotaz směrem k uživateli na opakování
     Console.WriteLine();
