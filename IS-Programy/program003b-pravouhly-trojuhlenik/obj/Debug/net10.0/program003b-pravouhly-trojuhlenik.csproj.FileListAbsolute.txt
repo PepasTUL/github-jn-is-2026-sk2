@@ -1,0 +1,15 @@
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/bin/Debug/net10.0/program003b-pravouhly-trojuhlenik
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/bin/Debug/net10.0/program003b-pravouhly-trojuhlenik.deps.json
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/bin/Debug/net10.0/program003b-pravouhly-trojuhlenik.runtimeconfig.json
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/bin/Debug/net10.0/program003b-pravouhly-trojuhlenik.dll
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/bin/Debug/net10.0/program003b-pravouhly-trojuhlenik.pdb
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/obj/Debug/net10.0/program003b-pravouhly-trojuhlenik.GeneratedMSBuildEditorConfig.editorconfig
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/obj/Debug/net10.0/program003b-pravouhly-trojuhlenik.AssemblyInfoInputs.cache
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/obj/Debug/net10.0/program003b-pravouhly-trojuhlenik.AssemblyInfo.cs
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/obj/Debug/net10.0/program003b-pravouhly-trojuhlenik.csproj.CoreCompileInputs.cache
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/obj/Debug/net10.0/program003b-pravouhly-trojuhlenik.sourcelink.json
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/obj/Debug/net10.0/program003b-pravouhly-trojuhlenik.dll
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/obj/Debug/net10.0/refint/program003b-pravouhly-trojuhlenik.dll
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/obj/Debug/net10.0/program003b-pravouhly-trojuhlenik.pdb
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/obj/Debug/net10.0/program003b-pravouhly-trojuhlenik.genruntimeconfig.cache
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program003b-pravouhly-trojuhlenik/obj/Debug/net10.0/ref/program003b-pravouhly-trojuhlenik.dll
