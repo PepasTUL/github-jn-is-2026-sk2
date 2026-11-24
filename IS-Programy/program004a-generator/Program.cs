@@ -18,13 +18,14 @@ while (again.ToLower() == "a" )
     Console.WriteLine("**********************************************************");
     Console.WriteLine("************generátor pseudonáhodných čísel***************");
     Console.WriteLine("**********************************************************");
-    Console.WriteLine("***********************Josef Novák**********************");
+    Console.WriteLine("***********************Dominik Kupec**********************");
     Console.WriteLine("**********************************************************");
     Console.WriteLine("**********************************************************");
     
     
     //vstup pro počet generovaných čísel
     Console.Write("Zadejte počet generovaných čísel (kladné celé číslo): ");
+   
     int n;
     while(!int.TryParse(Console.ReadLine(), out n) || n <= 0)
     {
@@ -68,6 +69,13 @@ while (again.ToLower() == "a" )
     //inicializace generátoru náhodných čísel
     Random myRandNumb = new Random(); 
     // Random myRandNumb = new Random(50); // pevný seed pro testovací účely pro stejná čísla. 
+
+     int negativeNumbers = 0;
+    int positiveNumbers = 0;
+    int zeros = 0;
+
+    int evenNumbs = 0;
+    int oddNumbs = 0;
     
 
     Console.WriteLine("Generovaná čísla: ");
@@ -76,7 +84,41 @@ while (again.ToLower() == "a" )
         //generování i-tého náhodného čísla
         myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound+1);
         Console.WriteLine($"{myRandNumbs[i]}; ");
+        if (myRandNumbs[i] > 0)
+        {
+            positiveNumbers++;
+        }
+        else if (myRandNumbs[i] < 0)
+        {
+            negativeNumbers++;
+        }
+        else
+        {
+            zeros++;
+        }
+        if (myRandNumbs[i] % 2 == 0)
+        {
+            evenNumbs++;
+        }
+        else
+        {
+            oddNumbs++;
+        }
+
+
+      
     }
+
+    Console.WriteLine();
+    Console.WriteLine("================================");
+    Console.WriteLine($"Počet kladných čísel: {positiveNumbers}");
+    Console.WriteLine($"Počet záporných čísel: {negativeNumbers}");
+    Console.WriteLine($"Počet nul: {zeros}");
+    Console.WriteLine($"Počet sudých čísel: {evenNumbs}");
+    Console.WriteLine($"Počet lichých čísel: {oddNumbs}");
+    Console.WriteLine("================================");
+
+
     //konec jádra konkrétního algortimu
 
     //Dotaz směrem k uživateli na opakování
