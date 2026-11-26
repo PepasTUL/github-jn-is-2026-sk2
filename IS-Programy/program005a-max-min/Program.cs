@@ -104,6 +104,43 @@ while (again.ToLower() == "a" )
     Console.WriteLine($"Minimum: {min} (pozice: {posMin})");   
     Console.WriteLine("================================");
     Console.WriteLine();
+
+    if(max >= 3)
+    {
+        //budeme vykreslovat přesípací hodiny
+        //vnější cyklus řídí vykreslování řádků
+        for(int i=0; i < max; i++){
+            int spaces = 0;
+            int stars = 0;
+
+            if(i < max/2) 
+            {
+                spaces = i;
+                stars = max - (2*i);
+            }
+            else
+            {
+               
+            }
+            
+            //vnitřní cyklus řídí vykreslování mezer
+            for(int sp=0; sp < spaces; sp++)
+            {
+                Console.Write(" ");
+            }
+
+            for(int st=0; st < stars; st++)
+            {
+                Console.Write("*");
+            }
+            Console.WriteLine();
+        }
+    }
+    else
+    {
+        //nebudeme vykreslovat
+        Console.WriteLine("Maximum je menší než 3, takže se nebude vykreslovat.");
+    }
     //konec jádra konkrétního algortimu
 
     //Dotaz směrem k uživateli na opakování
