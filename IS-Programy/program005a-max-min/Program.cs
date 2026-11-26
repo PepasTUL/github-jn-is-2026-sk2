@@ -75,8 +75,35 @@ while (again.ToLower() == "a" )
     {
         //generování i-tého náhodného čísla
         myRandNumbs[i] = myRandNumb.Next(lowerBound, upperBound+1);
-        Console.WriteLine($"{myRandNumbs[i]}; ");
+        Console.Write($"{myRandNumbs[i]}; ");
     }
+
+    //hledání maxima a minima a jejich umístění
+
+    int max = myRandNumbs[0];
+    int min = myRandNumbs[0];
+    int posMax = 0;
+    int posMin = 0;
+
+    for(int i = 1; i < n; i++)
+    {
+        if(myRandNumbs[i] > max)
+        {
+            max = myRandNumbs[i];
+            posMax = i;
+        }
+        if(myRandNumbs[i] < min)
+        {
+            min = myRandNumbs[i];
+            posMin = i;
+        }
+    }
+    Console.WriteLine();
+    Console.WriteLine("================================");
+    Console.WriteLine($"Maximum: {max} (pozice: {posMax})");
+    Console.WriteLine($"Minimum: {min} (pozice: {posMin})");   
+    Console.WriteLine("================================");
+    Console.WriteLine();
     //konec jádra konkrétního algortimu
 
     //Dotaz směrem k uživateli na opakování

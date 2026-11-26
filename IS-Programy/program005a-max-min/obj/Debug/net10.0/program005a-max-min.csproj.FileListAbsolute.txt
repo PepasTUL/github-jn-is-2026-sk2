@@ -1,0 +1,15 @@
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/bin/Debug/net10.0/program005a-max-min
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/bin/Debug/net10.0/program005a-max-min.deps.json
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/bin/Debug/net10.0/program005a-max-min.runtimeconfig.json
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/bin/Debug/net10.0/program005a-max-min.dll
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/bin/Debug/net10.0/program005a-max-min.pdb
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/obj/Debug/net10.0/program005a-max-min.GeneratedMSBuildEditorConfig.editorconfig
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/obj/Debug/net10.0/program005a-max-min.AssemblyInfoInputs.cache
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/obj/Debug/net10.0/program005a-max-min.AssemblyInfo.cs
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/obj/Debug/net10.0/program005a-max-min.csproj.CoreCompileInputs.cache
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/obj/Debug/net10.0/program005a-max-min.sourcelink.json
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/obj/Debug/net10.0/program005a-max-min.dll
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/obj/Debug/net10.0/refint/program005a-max-min.dll
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/obj/Debug/net10.0/program005a-max-min.pdb
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/obj/Debug/net10.0/program005a-max-min.genruntimeconfig.cache
+/home/sunsetpit/Dokumenty/aaa/github-jn-is-2026-sk2/IS-Programy/program005a-max-min/obj/Debug/net10.0/ref/program005a-max-min.dll
